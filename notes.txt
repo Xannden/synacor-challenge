@@ -1,0 +1,18 @@
+The save file places you right before using the teleporter then you need to use these commands
+
+debug
+setreg 7 25734
+setmem 5489 21
+setmem 5490 21
+setmem 5495 21
+setmem 5496 21
+setmem 5497 21
+exit
+
+Now when you use the teleporter you will be teleported to the beach
+
+once you get to the orb maze the path found by the solver in /solvers is
+
+N E E N W S E E W N N E
+
+now you just have to go in the vault and use the mirror to get the last code
